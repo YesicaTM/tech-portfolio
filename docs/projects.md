@@ -5,10 +5,9 @@ title: Projects
 
 Embed any notable projects in this page.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+My tech portfolio image, otherwise known as the profile picture for my LinkedIn profile.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
+You can list [links](https://www.linkedin.com/in/yesica-turcio-martinez-27b00917a/)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/rosemary.png)
+![LinkedIn Profile Image](./assets/1548196139347.jpg)
